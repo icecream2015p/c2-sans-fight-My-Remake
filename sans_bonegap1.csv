@@ -11,8 +11,16 @@
 0.26666,SansSlam,2,,,,,,,
 0,SansAnimation,Idle,,,,,,,
 2,HeartMode,1,,,,,,,
+0,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+0.13333,BlackScreen,0,,,,,,,
 0,HeartTeleport,320,376,,,,,,
+0,Sound,Flash,,,,,,,
 0,SansBody,HandDown,,,,,,,
 0.1,SansSlam,1,,,,,,,
 0,SansAnimation,Idle,,,,,,,
-4.4,EndAttack,,,,,,,
+0.2,BoneVRepeat,128,257,95,0,180,8,120
+0,BoneVRepeat,128,366,20,0,180,8,120
+0,BoneVRepeat,503,257,95,2,180,8,120
+0,BoneVRepeat,503,366,20,2,180,8,120
+6.4,EndAttack,,,,,,,
