@@ -41,7 +41,7 @@
 0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666
 0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666
 0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666
-0,HeartTeleport,320,304,,,,,,
+0,HeartTeleport,350,304,,,,,,
 0,HeartMode,0,,,,,,,
 0.5,HeartMode,1,,,,,,,
 0,SansBody,HandUp,,,,,,,
