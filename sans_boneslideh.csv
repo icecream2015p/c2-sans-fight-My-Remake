@@ -4,4 +4,10 @@
 0,TLPause,,,,,,,
 0.5,BoneVRepeat,128,366,20,0,120,8,76
 0,BoneVRepeat,513,257,107,2,120,8,76
-7.2,EndAttack,,,,,,,
+0,SansHead,BlueEye,,,,,,,
+3,SansSlam,3,,,,,,,
+1.2,SansSlam,1,,,,,,,
+1.5,SansSlam,3,,,,,,,
+1.5,SansSlam,1,,,,,,,
+0,SansHead,Default,,,,,,,
+3.5,EndAttack,,,,,,,
